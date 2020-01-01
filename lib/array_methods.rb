@@ -11,7 +11,9 @@ array.sort ("I")
 end
 
 def using_reverse(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.reverse ("wow")
+array.include? ("Tardis")
 end
 
 def using_first(array)
