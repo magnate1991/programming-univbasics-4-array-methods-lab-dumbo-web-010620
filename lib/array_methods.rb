@@ -12,8 +12,7 @@ end
 
 def using_reverse(array)
 array = ["wow", "I", "am", "really", "learning", "arrays!"]
-array.reverse ("wow")
-array.include? ("Tardis")
+array.reverse
 end
 
 def using_first(array)
